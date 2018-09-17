@@ -1,0 +1,1 @@
+"use strict";define(function(){function n(){}return n.prototype.showwrap=function(){console.log("123")},new n});

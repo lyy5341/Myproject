@@ -1,0 +1,1 @@
+"use strict";define(function(){function o(){}return o.prototype.wrap=function(){console.log("123");var t=$("#warp"),n=t.offset();$(document).on("scroll",function(){var o=$(document).scrollTop();n.top<=o?t.css({position:"fixed",top:"0px"}):t.css({position:"absolute",top:"500px"})})},new o});

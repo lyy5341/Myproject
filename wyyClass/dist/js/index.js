@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["jquery","url","carousel","addcourse","getwarp"],function(r,u,e,o,c){c.showwrap(),e.lunbo2(),o.findC({box:r("#classbox1")})})});

@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["jquery","tab","toast","template","url","addshopcar"],function(e,r,t,c,o,i){i.setcourse({box:e("#carbox"),pricebox:e("#allprice")})})});

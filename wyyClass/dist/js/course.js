@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["jquery","tab","toast","template","url","courseinf"],function(i,e,l,t,r,n){e.init({btn:i("#tab-l").children("ul").children("li"),show:i("#tab-l").children("ol").children("li")}),n.seturlID({box:i("#classbox")})})});

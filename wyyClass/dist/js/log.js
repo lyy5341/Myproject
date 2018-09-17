@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["jquery","tab","toast","template","url","loguser"],function(t,e,r,u,i,o){o.testlog()})});
